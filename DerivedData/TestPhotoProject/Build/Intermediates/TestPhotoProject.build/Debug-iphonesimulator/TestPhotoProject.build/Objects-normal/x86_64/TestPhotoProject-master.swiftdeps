@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "1790c7cb7c5c9ff4471d2a8449e3e910"
+build_time: [553000910, 296703000]
+inputs:
+  "/Users/Naxtre/Desktop/TestPhotoProject/TestPhotoProject/SaveFetchPicturesData.swift": [553000270, 0]
+  "/Users/Naxtre/Desktop/TestPhotoProject/TestPhotoProject/ViewController.swift": [553000816, 0]
+  "/Users/Naxtre/Desktop/TestPhotoProject/TestPhotoProject/AppDelegate.swift": [552986725, 0]
+  "/Users/Naxtre/Desktop/TestPhotoProject/DerivedData/TestPhotoProject/Build/Intermediates/TestPhotoProject.build/Debug-iphonesimulator/TestPhotoProject.build/DerivedSources/CoreDataGenerated/TestPhotoProject/Pictures+CoreDataClass.swift": [552994495, 0]
+  "/Users/Naxtre/Desktop/TestPhotoProject/DerivedData/TestPhotoProject/Build/Intermediates/TestPhotoProject.build/Debug-iphonesimulator/TestPhotoProject.build/DerivedSources/CoreDataGenerated/TestPhotoProject/Pictures+CoreDataProperties.swift": [552994495, 0]
+  "/Users/Naxtre/Desktop/TestPhotoProject/DerivedData/TestPhotoProject/Build/Intermediates/TestPhotoProject.build/Debug-iphonesimulator/TestPhotoProject.build/DerivedSources/CoreDataGenerated/TestPhotoProject/TestPhotoProject+CoreDataModel.swift": [552994495, 0]

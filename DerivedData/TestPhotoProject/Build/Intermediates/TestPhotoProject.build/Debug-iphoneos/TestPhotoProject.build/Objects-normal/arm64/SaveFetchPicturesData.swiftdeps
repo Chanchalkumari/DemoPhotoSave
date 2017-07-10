@@ -1,0 +1,407 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SaveFetchPicturesData"
+provides-nominal:
+- "C16TestPhotoProject21SaveFetchPicturesData"
+provides-member:
+- ["C16TestPhotoProject21SaveFetchPicturesData", ""]
+provides-dynamic-lookup:
+- "fetchData"
+- "save"
+depends-top-level:
+- !private "StringLiteralType"
+- !private "NSError"
+- !private "NSEntityDescription"
+- "SaveFetchPicturesData"
+- !private "NSManagedObject"
+- !private "NSFetchRequest"
+- "NSObject"
+- !private "UIApplication"
+- !private "print"
+- "NSArray"
+- "AssignmentPrecedence"
+- "CastingPrecedence"
+- "Data"
+- !private "AppDelegate"
+- !private "NSFetchRequestResult"
+depends-member:
+- !private ["Ps9AnyObject", "Element"]
+- !private ["Ps9AnyObject", "Iterator"]
+- !private ["Ps9AnyObject", "NSEntityDescription"]
+- !private ["Ps9AnyObject", "NSFetchRequest"]
+- !private ["Ps9AnyObject", "NSManagedObject"]
+- !private ["Ps9AnyObject", "UIApplication"]
+- !private ["Ps9AnyObject", "debugDescription"]
+- !private ["Ps9AnyObject", "delegate"]
+- !private ["Ps9AnyObject", "entity"]
+- !private ["Ps9AnyObject", "fetch"]
+- ["Ps9AnyObject", "fetchData"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "persistentContainer"]
+- !private ["Ps9AnyObject", "print"]
+- ["Ps9AnyObject", "save"]
+- !private ["Ps9AnyObject", "setValue"]
+- !private ["Ps9AnyObject", "shared"]
+- !private ["Ps9AnyObject", "userInfo"]
+- !private ["Ps9AnyObject", "viewContext"]
+- ["Ps9AnyObject", ""]
+- ["C16TestPhotoProject11AppDelegate", "deinit"]
+- !private ["C16TestPhotoProject11AppDelegate", "persistentContainer"]
+- ["Sa", "deinit"]
+- !private ["Sb", "deinit"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "NSEntityDescription"]
+- !private ["Ps7CVarArg", "NSFetchRequest"]
+- !private ["Ps7CVarArg", "NSManagedObject"]
+- !private ["Ps7CVarArg", "UIApplication"]
+- !private ["Ps7CVarArg", "debugDescription"]
+- !private ["Ps7CVarArg", "delegate"]
+- !private ["Ps7CVarArg", "entity"]
+- !private ["Ps7CVarArg", "fetch"]
+- ["Ps7CVarArg", "fetchData"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "persistentContainer"]
+- !private ["Ps7CVarArg", "print"]
+- ["Ps7CVarArg", "save"]
+- !private ["Ps7CVarArg", "setValue"]
+- !private ["Ps7CVarArg", "shared"]
+- !private ["Ps7CVarArg", "userInfo"]
+- !private ["Ps7CVarArg", "viewContext"]
+- ["Ps7CVarArg", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "NSEntityDescription"]
+- !private ["Ps28CustomDebugStringConvertible", "NSFetchRequest"]
+- !private ["Ps28CustomDebugStringConvertible", "NSManagedObject"]
+- !private ["Ps28CustomDebugStringConvertible", "UIApplication"]
+- !private ["Ps28CustomDebugStringConvertible", "debugDescription"]
+- !private ["Ps28CustomDebugStringConvertible", "delegate"]
+- !private ["Ps28CustomDebugStringConvertible", "entity"]
+- !private ["Ps28CustomDebugStringConvertible", "fetch"]
+- ["Ps28CustomDebugStringConvertible", "fetchData"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "persistentContainer"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- ["Ps28CustomDebugStringConvertible", "save"]
+- !private ["Ps28CustomDebugStringConvertible", "setValue"]
+- !private ["Ps28CustomDebugStringConvertible", "shared"]
+- !private ["Ps28CustomDebugStringConvertible", "userInfo"]
+- !private ["Ps28CustomDebugStringConvertible", "viewContext"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "NSEntityDescription"]
+- !private ["Ps23CustomStringConvertible", "NSFetchRequest"]
+- !private ["Ps23CustomStringConvertible", "NSManagedObject"]
+- !private ["Ps23CustomStringConvertible", "UIApplication"]
+- !private ["Ps23CustomStringConvertible", "debugDescription"]
+- !private ["Ps23CustomStringConvertible", "delegate"]
+- !private ["Ps23CustomStringConvertible", "entity"]
+- !private ["Ps23CustomStringConvertible", "fetch"]
+- ["Ps23CustomStringConvertible", "fetchData"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "persistentContainer"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- ["Ps23CustomStringConvertible", "save"]
+- !private ["Ps23CustomStringConvertible", "setValue"]
+- !private ["Ps23CustomStringConvertible", "shared"]
+- !private ["Ps23CustomStringConvertible", "userInfo"]
+- !private ["Ps23CustomStringConvertible", "viewContext"]
+- ["Ps23CustomStringConvertible", ""]
+- ["V10Foundation4Data", "deinit"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "Iterator"]
+- !private ["Ps9Equatable", "NSEntityDescription"]
+- !private ["Ps9Equatable", "NSFetchRequest"]
+- !private ["Ps9Equatable", "NSManagedObject"]
+- !private ["Ps9Equatable", "UIApplication"]
+- !private ["Ps9Equatable", "debugDescription"]
+- !private ["Ps9Equatable", "delegate"]
+- !private ["Ps9Equatable", "entity"]
+- !private ["Ps9Equatable", "fetch"]
+- ["Ps9Equatable", "fetchData"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "persistentContainer"]
+- !private ["Ps9Equatable", "print"]
+- ["Ps9Equatable", "save"]
+- !private ["Ps9Equatable", "setValue"]
+- !private ["Ps9Equatable", "shared"]
+- !private ["Ps9Equatable", "userInfo"]
+- !private ["Ps9Equatable", "viewContext"]
+- ["Ps9Equatable", ""]
+- !private ["Ps5Error", "debugDescription"]
+- !private ["Ps5Error", "userInfo"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "Iterator"]
+- !private ["Ps8Hashable", "NSEntityDescription"]
+- !private ["Ps8Hashable", "NSFetchRequest"]
+- !private ["Ps8Hashable", "NSManagedObject"]
+- !private ["Ps8Hashable", "UIApplication"]
+- !private ["Ps8Hashable", "debugDescription"]
+- !private ["Ps8Hashable", "delegate"]
+- !private ["Ps8Hashable", "entity"]
+- !private ["Ps8Hashable", "fetch"]
+- ["Ps8Hashable", "fetchData"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "persistentContainer"]
+- !private ["Ps8Hashable", "print"]
+- ["Ps8Hashable", "save"]
+- !private ["Ps8Hashable", "setValue"]
+- !private ["Ps8Hashable", "shared"]
+- !private ["Ps8Hashable", "userInfo"]
+- !private ["Ps8Hashable", "viewContext"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- !private ["CSo7NSArray", "Iterator"]
+- !private ["PSo8NSCoding", "Iterator"]
+- !private ["PSo8NSCoding", "debugDescription"]
+- !private ["PSo8NSCoding", "entity"]
+- !private ["PSo8NSCoding", "fetch"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "save"]
+- !private ["PSo8NSCoding", "userInfo"]
+- !private ["PSo9NSCopying", "Iterator"]
+- !private ["PSo9NSCopying", "debugDescription"]
+- !private ["PSo9NSCopying", "entity"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "userInfo"]
+- ["CSo19NSEntityDescription", "deinit"]
+- !private ["CSo19NSEntityDescription", "entity"]
+- !private ["CSo7NSError", "debugDescription"]
+- ["CSo7NSError", "deinit"]
+- !private ["CSo7NSError", "userInfo"]
+- !private ["PSo17NSFastEnumeration", "Iterator"]
+- !private ["PSo17NSFastEnumeration", "entity"]
+- !private ["C10Foundation25NSFastEnumerationIterator", "Element"]
+- ["CSo14NSFetchRequest", "deinit"]
+- !private ["CSo14NSFetchRequest", "init"]
+- ["PSo20NSFetchRequestResult", "deinit"]
+- !private ["PSo20NSFetchRequestResult", "init"]
+- !private ["PSo20NSFetchRequestResult", "setValue"]
+- !private ["PSo9NSLocking", "fetch"]
+- !private ["PSo9NSLocking", "save"]
+- ["CSo15NSManagedObject", "deinit"]
+- !private ["CSo15NSManagedObject", "init"]
+- !private ["CSo15NSManagedObject", "setValue"]
+- ["CSo22NSManagedObjectContext", "deinit"]
+- !private ["CSo22NSManagedObjectContext", "fetch"]
+- !private ["CSo22NSManagedObjectContext", "save"]
+- !private ["PSo16NSMutableCopying", "Iterator"]
+- !private ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "AppDelegate"]
+- ["CSo8NSObject", "Data"]
+- !private ["CSo8NSObject", "Iterator"]
+- ["CSo8NSObject", "NSArray"]
+- !private ["CSo8NSObject", "NSEntityDescription"]
+- !private ["CSo8NSObject", "NSError"]
+- !private ["CSo8NSObject", "NSFetchRequest"]
+- !private ["CSo8NSObject", "NSFetchRequestResult"]
+- !private ["CSo8NSObject", "NSManagedObject"]
+- !private ["CSo8NSObject", "UIApplication"]
+- !private ["CSo8NSObject", "debugDescription"]
+- ["CSo8NSObject", "deinit"]
+- !private ["CSo8NSObject", "delegate"]
+- !private ["CSo8NSObject", "entity"]
+- !private ["CSo8NSObject", "fetch"]
+- ["CSo8NSObject", "fetchData"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "persistentContainer"]
+- !private ["CSo8NSObject", "print"]
+- ["CSo8NSObject", "save"]
+- !private ["CSo8NSObject", "setValue"]
+- !private ["CSo8NSObject", "shared"]
+- !private ["CSo8NSObject", "userInfo"]
+- !private ["CSo8NSObject", "viewContext"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "Iterator"]
+- !private ["PSo16NSObjectProtocol", "NSEntityDescription"]
+- !private ["PSo16NSObjectProtocol", "NSFetchRequest"]
+- !private ["PSo16NSObjectProtocol", "NSManagedObject"]
+- !private ["PSo16NSObjectProtocol", "UIApplication"]
+- !private ["PSo16NSObjectProtocol", "debugDescription"]
+- !private ["PSo16NSObjectProtocol", "delegate"]
+- !private ["PSo16NSObjectProtocol", "entity"]
+- !private ["PSo16NSObjectProtocol", "fetch"]
+- ["PSo16NSObjectProtocol", "fetchData"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "persistentContainer"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- ["PSo16NSObjectProtocol", "save"]
+- !private ["PSo16NSObjectProtocol", "setValue"]
+- !private ["PSo16NSObjectProtocol", "shared"]
+- !private ["PSo16NSObjectProtocol", "userInfo"]
+- !private ["PSo16NSObjectProtocol", "viewContext"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["CSo21NSPersistentContainer", "viewContext"]
+- !private ["PSo14NSSecureCoding", "Iterator"]
+- !private ["PSo14NSSecureCoding", "debugDescription"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSo14NSSecureCoding", "userInfo"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "AppDelegate"]
+- ["C16TestPhotoProject21SaveFetchPicturesData", "Data"]
+- ["C16TestPhotoProject21SaveFetchPicturesData", "NSArray"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "NSEntityDescription"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "NSError"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "NSFetchRequest"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "NSFetchRequestResult"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "NSManagedObject"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "UIApplication"]
+- ["C16TestPhotoProject21SaveFetchPicturesData", "deinit"]
+- ["C16TestPhotoProject21SaveFetchPicturesData", "fetchData"]
+- ["C16TestPhotoProject21SaveFetchPicturesData", "init"]
+- !private ["C16TestPhotoProject21SaveFetchPicturesData", "print"]
+- ["C16TestPhotoProject21SaveFetchPicturesData", "save"]
+- !private ["Ps8Sequence", "Iterator"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- ["CSo13UIApplication", "deinit"]
+- !private ["CSo13UIApplication", "delegate"]
+- !private ["CSo13UIApplication", "shared"]
+- !private ["PSo21UIApplicationDelegate", "persistentContainer"]
+- !private ["CSo11UIResponder", "delegate"]
+- !private ["CSo11UIResponder", "persistentContainer"]
+- !private ["CSo11UIResponder", "shared"]
+- !private ["PSo30UIResponderStandardEditActions", "delegate"]
+- !private ["PSo30UIResponderStandardEditActions", "persistentContainer"]
+- !private ["PSo30UIResponderStandardEditActions", "shared"]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "Iterator"]
+- !private ["Ps9_Hashable", "NSEntityDescription"]
+- !private ["Ps9_Hashable", "NSFetchRequest"]
+- !private ["Ps9_Hashable", "NSManagedObject"]
+- !private ["Ps9_Hashable", "UIApplication"]
+- !private ["Ps9_Hashable", "debugDescription"]
+- !private ["Ps9_Hashable", "delegate"]
+- !private ["Ps9_Hashable", "entity"]
+- !private ["Ps9_Hashable", "fetch"]
+- ["Ps9_Hashable", "fetchData"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "persistentContainer"]
+- !private ["Ps9_Hashable", "print"]
+- ["Ps9_Hashable", "save"]
+- !private ["Ps9_Hashable", "setValue"]
+- !private ["Ps9_Hashable", "shared"]
+- !private ["Ps9_Hashable", "userInfo"]
+- !private ["Ps9_Hashable", "viewContext"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C16TestPhotoProject11AppDelegate"
+- "Sa"
+- !private "Sb"
+- "Ps7CVarArg"
+- !private "Vs9Character"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- "Vs10Dictionary"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps5Error"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Sf"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps16IteratorProtocol"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- !private "CSo7NSArray"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo19NSEntityDescription"
+- "CSo7NSError"
+- !private "PSo17NSFastEnumeration"
+- !private "C10Foundation25NSFastEnumerationIterator"
+- "CSo14NSFetchRequest"
+- "PSo20NSFetchRequestResult"
+- !private "PSo9NSLocking"
+- "CSo15NSManagedObject"
+- "CSo22NSManagedObjectContext"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "CSo21NSPersistentContainer"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "C16TestPhotoProject21SaveFetchPicturesData"
+- !private "Ps8Sequence"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- "CSo13UIApplication"
+- !private "PSo21UIApplicationDelegate"
+- !private "CSo11UIResponder"
+- !private "PSo30UIResponderStandardEditActions"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreAudio.swiftmodule"
+interface-hash: "094b99d6ced8c935c431504e4512d9ba"
